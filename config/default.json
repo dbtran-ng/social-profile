@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://tiger:tiger@mongoconnector.glmey.mongodb.net/MongoConnector?retryWrites=true&w=majority",
+    "jwtSecret": "jwtToken"
+}
